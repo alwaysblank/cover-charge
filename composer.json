@@ -1,0 +1,12 @@
+{
+    "name": "alwaysblank/cover-charge",
+    "description": "Intercept page requests to make someone do something.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ben Martinez-Bateman",
+            "email": "ben@alwaysblank.org"
+        }
+    ],
+    "require": {}
+}
